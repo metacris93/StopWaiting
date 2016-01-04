@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.tutorial.stopwaiting.LoginActivity"
+    android:background="#ffffff"
+    android:weightSum="1">
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/editText"
+        android:layout_marginTop="100sp"
+        android:hint="@string/numero_celular" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ingresar"
+        android:id="@+id/btn_ingresar"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="25sp" />
+
+    <TextView
+        android:layout_width="199dp"
+        android:layout_height="wrap_content"
+        android:text="@string/registrar_ahora"
+        android:id="@+id/textView2"
+        android:layout_gravity="center_horizontal"
+        android:textSize="@dimen/txt_dimension"
+        android:layout_marginTop="50sp" />
+
+    <TextView
+        android:layout_width="138dp"
+        android:layout_height="wrap_content"
+        android:text="@string/registro"
+        android:id="@+id/registroActivity"
+        android:layout_gravity="center_horizontal"
+        android:clickable="true"
+        android:textSize="@dimen/txt_dimension"
+        android:textColor="@color/naranja"
+        android:layout_marginTop="20sp"
+        android:onClick="clickEnlaceRegistro" />
+
+</LinearLayout>

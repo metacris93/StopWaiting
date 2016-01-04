@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StopWaiting</string>
+    <string name="numero_celular">Numero Celular...</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrar_ahora">Registrate ahora:</string>
+    <string name="registro">Registrarse</string>
+    <string name="nombre">Nombre...</string>
+</resources>
