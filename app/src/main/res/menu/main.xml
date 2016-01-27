@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myApp="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".turnoActivity">
+    >
+    <item
+        android:id="@+id/action_alarma"
+        android:orderInCategory="100"
+        myApp:showAsAction="always"
+        android:title="@string/alarma"
+        android:icon="@drawable/ic_notifications_white_24dp"
+        />
+</menu>

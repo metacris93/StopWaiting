@@ -236,6 +236,7 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <!-- From: file:/C:/Users/CristianRenan/AndroidStudioProjects/StopWaiting/app/src/main/res/values/strings.xml -->
     <eat-comment/>
+    <string name="alarma"/>
     <string name="app_name">StopWaiting</string>
     <string name="ingresar">Ingresar</string>
     <string name="nombre">Nombre...</string>

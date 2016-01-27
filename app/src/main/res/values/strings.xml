@@ -5,4 +5,5 @@
     <string name="registrar_ahora">Registrate ahora:</string>
     <string name="registro">Registrarse</string>
     <string name="nombre">Nombre...</string>
+    <string name="alarma"></string>
 </resources>

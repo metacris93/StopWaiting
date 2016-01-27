@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.TextView;
 
-public class LoginActivity extends AppCompatActivity {
+public class LoginActivity extends AppCompatActivity {/*OJO cambie la herencia (antes:Activity) (despues:AppCompatActivity)*/
     private TextView registro_link;
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:2:1-36:12
+ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:2:1-39:12
 	package
 		ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:3:5-39
 		INJECTED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main
 		INJECTED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:5:5-34:19
+ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:5:5-37:19
 MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
 	android:label
@@ -27,38 +27,40 @@ MERGED from [com.android.support:support-v4:23.1.1] C:\Users\CristianRenan\Andro
 		ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:7:9-43
 	android:theme
 		ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:10:9-67
-activity#com.tutorial.stopwaiting.AnimationActivity
-ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:11:9-17:20
-	android:name
-		ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:11:19-52
-intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
-ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:12:13-16:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:13:17-69
-	android:name
-		ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:13:25-66
-category#android.intent.category.DEFAULT
-ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:15:17-76
-	android:name
-		ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:15:27-73
 activity#com.tutorial.stopwaiting.LoginActivity
-ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:18:9-25:20
+ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:11:9-19:20
 	android:theme
-		ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:19:19-50
+		ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:13:13-44
 	android:name
-		ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:18:19-48
+		ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:12:13-42
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:20:13-24:29
+ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:23:17-77
+ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:23:27-74
+		ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:17:27-74
 activity#com.tutorial.stopwaiting.RegisterActivity
-ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:26:9-33:20
+ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:20:9-28:20
 	android:theme
-		ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:27:19-50
+		ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:22:13-44
 	android:name
-		ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:26:19-51
+		ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:21:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:23:13-27:29
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:26:27-73
+activity#com.tutorial.stopwaiting.turnoActivity
+ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:29:9-36:20
+	android:theme
+		ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:30:19-50
+	android:name
+		ADDED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml:29:19-48
 uses-sdk
 INJECTED from C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\CristianRenan\AndroidStudioProjects\StopWaiting\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
